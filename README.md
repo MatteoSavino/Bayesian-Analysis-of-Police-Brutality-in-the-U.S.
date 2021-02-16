@@ -19,7 +19,7 @@ This is a plot of the killings all over the U.S across the six years (2015-2020)
 ## Results
 We can say that is actually present a racial bias against the Afro-Americans people in all the U.S. while for the Hispanic ones is not a so widespread phenomenon, but it is more restricted to some specific states. 
 
-Here there are some plots of the results we have obtained
+Here there are some plots of the results we have obtained, where 'R' is the so called 'Risk Rate' of being shot given a certain ethnicity and condition during the arrest (armed or unarmed):
 ![results1](img/HA_Risk_Heatmap.PNG)
 ![results2](img/BA_Risk_Heatmap.PNG)
 ![results3](img/caterpillar_Risk_BA.PNG)
