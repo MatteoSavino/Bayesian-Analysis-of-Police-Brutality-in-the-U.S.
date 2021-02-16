@@ -4,8 +4,9 @@ Project for Bayesian Statistics course @polimi 2020/2021
 
 ### Structure of the folders
 * report: contains the project report
-* *script*: contains all the R scripts
-  * *data*: contains all the used data (some of them must be unzipped)
+* *R SCRIPT*: contains all the R scripts
+  * *DATA*: contains all the used data (some of them must be unzipped)
+  * *STAN_MODELS* contains the script of the models used in STAN 
   * *maps*: contains shapefiles useful for plotting
 * *img*: contains images for the readme
 
