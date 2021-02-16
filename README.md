@@ -13,7 +13,7 @@ Project for Bayesian Statistics course @polimi 2020/2021
 With this project we want to study the phenomenon of the police brutality in the U.S. and in particular if there is a racial bias in the actions of the police. 
 In particular we have focused our work on the study of the risks associated with being an Afro-American people or an Hispanic one distinguish also the case of an armed people and an unarmed one.
 
-![data](img/USA_LAKERS.pdf)
+![data](img/USA_LAKERS.PNG)
 
 ## Results
 We can say that is actually present a racial bias against the Afro-Americans people in all the U.S. while for the Hispanic ones is not a so widespread phenomenon, but it is more restricted to some specific states. 
